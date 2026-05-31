@@ -4,7 +4,7 @@
 #
 # Name: Yirenkyi Kwasi Charles
 # STUDENT ID: 2425400788
-# Email: 2425402769@live.gctu.edu.gh
+# Email: yirenkyicharles1@gmail.com
 # Grader: Augustus
 #
 # On my honor, Yirenkyi Kwasi Charles, this programming assignment is my own work
