@@ -13,7 +13,7 @@
 def main():
 # prints the initials of my name in large slylish letters
     print()
-    print("...KYC")
+    print("...YKC")
     print()
     print("...YYY......YYY........KKK......KKK..........CCCCCCCCCC.....")
     print("...YYY......YYY........KKK.....KKK..........CCCCCCCCCCC.....")
